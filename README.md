@@ -1,6 +1,6 @@
 ## Hi, I'm Matěj
 
-Full-Stack developer focusing on Cybersecurity
+Full-Stack developer with strong passion for Cybersecurity
 
 ### Tech Stack & Tools
 
