@@ -13,9 +13,16 @@ Full-Stack developer with strong passion for Cybersecurity
 `Laravel` `Bootstrap`
 
 ### Currently working on
-FileReader - Linux file watcher
-Learning C#
-Learning Cybersecurity
+**FileReader** - Linux file watcher
+
+**Cybersecurity** – Learning hands-on network security, web application security, and ethical hacking fundamentals.
+
+**C# & .NET** – Learning basics in C#.
+
 
 ### Upcoming projects
 Storage space related project in C
+
+### Connect with me
+* [LinkedIn](https://www.linkedin.com/in/mat%C4%9Bj-barcal-b51b5a3b5/)
+* [matty.barcal@gmail.com](mailto:matty.barcal@gmail.com)
