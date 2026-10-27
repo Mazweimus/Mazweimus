@@ -13,7 +13,6 @@ Full-Stack developer with strong passion for Cybersecurity
 `Laravel` `Bootstrap`
 
 ### Currently working on
-**FileReader** - Linux file watcher
 
 **Cybersecurity** – Learning hands-on network security, web application security, and ethical hacking fundamentals.
 
