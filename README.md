@@ -14,6 +14,8 @@ Full-Stack developer with strong passion for Cybersecurity
 
 ### Currently working on
 
+**Resulto** - Vibe coded web application for custom game results and long-time ranking system
+
 **Cybersecurity** – Learning hands-on network security, web application security, and ethical hacking fundamentals.
 
 **C# & .NET** – Learning basics in C#.
